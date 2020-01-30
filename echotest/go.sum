@@ -1,0 +1,6 @@
+github.com/burntsushi/toml v0.3.1 h1:XebFhzi1T+XmBZG9aKnQnA50YOydJUYK7g5SM40w+ik=
+github.com/burntsushi/toml v0.3.1/go.mod h1:tCq67G3LEDB9hykA6+KWl2FPEy0nPcvE8TTBhtOtdGs=
+github.com/golangDemo/go-janus v0.0.0-20160212004113-2d6f26e84217 h1:5FKnQm/HPoKlfGQ62wpHufQJnSgcuitwTDAFI0FY6XQ=
+github.com/golangDemo/go-janus v0.0.0-20160212004113-2d6f26e84217/go.mod h1:wtoKq82juAbRp/6ifr/eeLubec0xSnIXTDEsi57pz/0=
+github.com/nowylie/go-janus v0.0.0-20160212004113-2d6f26e84217 h1:PJ2sjnQCE1vIy3bse7sS4apomsut4B24cnjdoYZJuFQ=
+github.com/nowylie/go-janus v0.0.0-20160212004113-2d6f26e84217/go.mod h1:uYP5CCmO7siDhwbpI9vKzgqtdPzAj7CLmwDcSqz1KKI=

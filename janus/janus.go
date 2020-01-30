@@ -52,7 +52,7 @@ type Gateway struct {
 func Connect(path string) (*Gateway, error) {
 	lpath := fmt.Sprintf("/tmp/janus-echotest.%d", os.Getpid())
 	laddr := &net.UnixAddr{lpath, "unixgram"}
-	raddr := &net.UnixAddr{rpath, "unixgram"}
+	raddr := &net.UnixAddr{lpath, "unixgram"}
 	conn, err := net.DialUnix("unixgram", laddr, raddr)
 	if err != nil {
 		return nil, err
